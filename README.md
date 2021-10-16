@@ -31,7 +31,7 @@ const Emre = {
     CreatedAt: "7 Eylül 2019 Salı 00:56:31 GMT+0000 (Eşgüdümlü Evrensel Saat)",
     Stars: 1286,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
-}; //I'm a Epic Object. UwU
+}; //Ben bir Epik Nesneyim. uwU
 ```
 <hr>
 <div>
