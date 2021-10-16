@@ -1,21 +1,21 @@
-<!-- You found this secret 👏 -->
+<!-- Bu sırrı buldun 👏 -->
 <!--
-    My secret things lol
+    Gizli şeylerim lol
     
-    - I code more hours 
-    - I am a gamer too 
-    - I play minecraft, roblox, AMOUNG US ;-;
-    - This readme.md is created using GitHub Codespaces 👀
-    - I am also a YouTuber XD, make sure to sub ;-;
+    - Daha fazla saat kodluyorum
+    - Ben de bir oyuncuyum
+    - Leaque of Legends Oynuyorum ;-;
+    - Bu README.md, GitHub Kod Alanları kullanılarak oluşturulmuştur 👀
+    - Ben de bir YouTuber XD'yim, abone olmayı unutmayın ;-;
 -->
     
 <h1 align="center">Ben kimim?</h1>
-<p align="center">Merhaba ben Sudhan. Kod yazmak için typescript kullanıyorum ve benim hakkımda çok özel bir şey yok...</p>
+<p align="center">Merhaba ben Emre. Kod yazmak için typescript kullanıyorum ve benim hakkımda çok özel bir şey yok...</p>
 
-## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/Emre37destan/Emre37destan/master/resimler/Selam.gif" width="30px">
+## Merhaba ben Emre <img src="https://raw.githubusercontent.com/Emre37destan/Emre37destan/master/resimler/Selam.gif" width="30px">
 
 ```js
-const Sudhan = {
+const Emre = {
     Age: 14,
     Description: "Sevdiğim şeyleri kodlamayı seviyorum...",
     FavouriteLanguage: "Javascript/Typescript",
