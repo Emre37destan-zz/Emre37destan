@@ -41,7 +41,7 @@ const Emre = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Emre37destan&theme=dracula"></div>
 
-![Görüntülenme sayısı](https://komarev.com/ghpvc/?username=Emre37destan&color=blueviolet)&nbsp;&nbsp;! [Profil Takipçileri](https://img.shields.io/badge/Followers-283-blueviolet)&nbsp;&nbsp;! [Profil Takip](https://img.shields.io/badge/Following-13-blueviolet)&nbsp;&nbsp;! [Profil Yıldızları](https://img.shields.io/badge/Stars-1286-blueviolet)
+![Görüntülenme sayısı](https://komarev.com/ghpvc/?username=Emre37destan&color=blueviolet)&nbsp;&nbsp;![Profil Takipçileri](https://img.shields.io/badge/Followers-283-blueviolet)&nbsp;&nbsp;![Profil Takip](https://img.shields.io/badge/Following-13-blueviolet)&nbsp;&nbsp;![Profil Yıldızları](https://img.shields.io/badge/Stars-1286-blueviolet)
 
 Bu hafta yaptığım epik kodlama istatistiklerimden bazıları
 <!--START_SECTION:waka-->
