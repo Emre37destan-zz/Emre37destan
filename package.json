@@ -1,0 +1,13 @@
+{
+  "name": "Emre37destan",
+  "version": "1.0.0",
+  "description": "Benimle İlgili",
+  "main": "src/update.js",
+  "repository": "https://github.com/Emre37destan/Emre37destan",
+  "author": "Emre <destan3673@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
