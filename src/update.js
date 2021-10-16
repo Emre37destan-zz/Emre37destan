@@ -69,7 +69,7 @@ const Emre = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Emre37destan&theme=dracula"></div>
 
-![Görüntülenme sayısı](https://komarev.com/ghpvc/?username=Emre37destan&color=blueviolet)&nbsp;&nbsp;! [Profil Takipçileri](https://img.shields.io/badge/Followers-${
+![Görüntülenme sayısı](https://komarev.com/ghpvc/?username=Emre37destan&color=blueviolet)&nbsp;&nbsp;![Profil Takipçileri](https://img.shields.io/badge/Followers-${
     UserData.followers
   }-blueviolet)&nbsp;&nbsp;![Profil Takip](https://img.shields.io/badge/Following-${
     UserData.following
@@ -110,7 +110,7 @@ Bu hafta yaptığım epik kodlama istatistiklerimden bazıları
     ][date.getMonth()]
   } ${date.getFullYear()} büyü kullanmak</i> ✨`;
 
-  //Saving on readme.md
+  //benioku.md'ye kaydetme
   fs.writeFileSync(ReadMe, text);
 };
 
