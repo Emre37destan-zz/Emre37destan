@@ -42,6 +42,8 @@ const WriteReadMe = async () => {
 
 ## Merhaba ben Emre <img src="https://raw.githubusercontent.com/Emre37destan/Emre37destan/master/images/WaveIcon.gif" width="30px">
 
+https://emre37destan.github.io/Emre37destan/
+
 \`\`\`js
 const Emre = {
     Age: 14,
