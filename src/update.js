@@ -59,7 +59,7 @@ const Emre = {
     CreatedAt: "${new Date(UserData.created_at).toString()}",
     Stars: ${stars},
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
-}; //I'm a Epic Object. UwU
+}; //Ben bir Epik Nesneyim. uwU
 \`\`\`
 <hr>
 <div>
